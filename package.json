@@ -1,0 +1,16 @@
+{
+  "name": "tp-grupal-cac-pos",
+  "version": "1.0.0",
+  "description": "1. Dirigirse a la carpeta sql > `initialization_db.sql`, y ejecutar en MySQL Workbench.\r    - Ver `DER - Point of sale.png` para entender la estructura de la base de datos.\r 2. Ejecutar en la linea de comandos\r    ```js\r    node --watch index.js\r    ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
